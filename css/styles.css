@@ -4,3 +4,11 @@
   background-size: cover;
   color: white;
 }
+
+.button-section{
+  text-align: center;
+}
+
+#giraffe, #elephant, #hippo{
+  display: none;
+}
